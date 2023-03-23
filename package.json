@@ -1,0 +1,13 @@
+{
+  "name": "my-telegram-bot",
+  "version": "1.0.0",
+  "main": "my_bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node my_bot.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "grammy": "^1.5.2"
+  }
+}
