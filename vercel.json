@@ -11,8 +11,5 @@
       "src": "/(.*)",
       "dest": "my_bot.js"
     }
-  ],
-  "env": {
-    "BOT_TOKEN": "@bot_token"
-  }
+  ]
 }
