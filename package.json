@@ -1,15 +1,14 @@
 {
   "name": "my-telegram-bot",
   "version": "1.0.0",
-  "main": "my_bot.ts",
+  "main": "my_bot.js",
   "type": "module",
   "scripts": {
-    "start": "node my_bot.ts"
+    "start": "node my_bot.js"
   },
   "dependencies": {
     "@grammyjs/menu": "^1.1.3",
     "dotenv": "^16.0.3",
-    "grammy": "^1.5.2",
-    "lodash": "^4.17.21"
+    "grammy": "^1.5.2"
   }
 }
